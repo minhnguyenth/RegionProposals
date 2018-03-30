@@ -11,3 +11,5 @@ This implementation is for Selective search, one variant of region proposal meth
 4. Go to step 2
 
 Selective search measure similarities between 2 adjacent regions based on color, texture, size and shape.
+
+Credit: learnopencv.org
